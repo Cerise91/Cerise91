@@ -1,5 +1,6 @@
 ### Hey there! I’m Dounia
-👨🏻‍💻  About Me
+
+:princess: About Me
 
 
 - 🎓 I’m currently studying computer science at Polytech Paris-Saclay
