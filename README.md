@@ -1,3 +1,4 @@
+![Let's make this a great new school year!-min](https://user-images.githubusercontent.com/78479547/123549780-bc43d780-d76a-11eb-81c6-c53138dc7de4.png)
 ### Hey there! I’m Dounia
 
 :princess: About Me
