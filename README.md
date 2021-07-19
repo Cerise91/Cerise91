@@ -8,12 +8,11 @@
 - Anime lovers 😝
 
 🛠  Tech Stack
-
-Python  Java  JavaScript  C++  
- HTML  CSS 
-Git  GitHub   
+```Python
+C++  Python JavaScript Java    
+HTML  CSS  Git     
 Visual Studio Code  Eclipse
-
+```
 Quick stats about me
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cerise91&count_private=true&theme=synthwave&showicons=true)]()
