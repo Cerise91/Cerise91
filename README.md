@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/78479547/180142908-fbe09521-1ecf-4afe-9716-97123234281e.png)
+
 ### Hey there! I’m Dounia
 
 :princess: About Me
